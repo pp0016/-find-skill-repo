@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+staging_docs/
+output/
+.next/
+docs/out/
+docs/src/data/
+docs/.source/
+docs/cli.json
+docs/next-env.d.ts

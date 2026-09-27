@@ -1,0 +1,26 @@
+{
+  "name": "ssdt-master",
+  "version": "1.6.8",
+  "description": "Complete SQL Server Data Tools (SSDT) expertise across all platforms. PROACTIVELY activate for: (1) any SSDT task (database projects/SqlPackage/schema compare), (2) SDK-style and legacy project creation/migration, (3) DACPAC/BACPAC build and deploy, (4) SqlPackage CLI operations, (5) schema and data comparison, (6) refactoring, (7) MSBuild and CI/CD, (8) deployment script generation. Provides: full SqlPackage parameter reference, SDK-style project structure, deployment options, GitHub Actions/Azure DevOps patterns.",
+  "author": {
+    "name": "Josiah Siegel",
+    "email": "JosiahSiegel@users.noreply.github.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sql-server",
+    "ssdt",
+    "database",
+    "dacpac",
+    "sqlpackage",
+    "schema-compare",
+    "database-projects",
+    "sql",
+    "mssql",
+    "sdk-style",
+    "visual-studio",
+    "azure-sql",
+    "deployment",
+    "migration"
+  ]
+}

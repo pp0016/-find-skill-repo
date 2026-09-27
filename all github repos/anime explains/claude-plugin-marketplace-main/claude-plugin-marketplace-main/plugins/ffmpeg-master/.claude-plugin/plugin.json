@@ -1,0 +1,29 @@
+{
+  "name": "ffmpeg-master",
+  "version": "4.0.0",
+  "description": "Meta-bundle for the FFmpeg plugin suite. Installing this plugin auto-installs focused sub-plugins for core encoding, creative effects, runtime platforms, Python integrations, and social video workflows. Use sub-plugins directly for tighter trigger surfaces, or install this bundle for the full FFmpeg suite.",
+  "author": {
+    "name": "Josiah Siegel",
+    "email": "JosiahSiegel@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/JosiahSiegel/claude-plugin-marketplace/tree/main/plugins/ffmpeg-master",
+  "repository": "https://github.com/JosiahSiegel/claude-plugin-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "ffmpeg",
+    "video",
+    "audio",
+    "media",
+    "encoding",
+    "streaming",
+    "plugins",
+    "bundle"
+  ],
+  "dependencies": [
+    "ffmpeg-core",
+    "ffmpeg-effects",
+    "ffmpeg-platforms",
+    "ffmpeg-python",
+    "ffmpeg-social-video"
+  ]
+}

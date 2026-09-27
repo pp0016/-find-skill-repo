@@ -1,0 +1,35 @@
+{
+  "name": "stripe-billing-master",
+  "version": "1.0.3",
+  "description": "Expert Stripe billing for money-safe webhook handlers, refund/dispute lifecycles, credit audit trails, and idempotency. PROACTIVELY activate for: (1) any Stripe webhook handler (charge.*, invoice.*, customer.subscription.*, charge.dispute.*), (2) credit/balance mutations needing audit logs, (3) refund delta computation from previous_attributes, (4) dispute state machine (past_due hold/restore), (5) idempotency key strategy, (6) list-API pagination with starting_after, (7) plan resolution from price IDs with safety fallback, (8) Postgres text_pattern_ops indexes, (9) exhaustive enum switches, (10) credit reconciliation crons. Complements the official stripe plugin.",
+  "author": {
+    "name": "Josiah Siegel",
+    "email": "JosiahSiegel@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/JosiahSiegel/claude-plugin-marketplace/tree/main/plugins/stripe-billing-master",
+  "repository": "https://github.com/JosiahSiegel/claude-plugin-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "stripe",
+    "billing",
+    "webhooks",
+    "idempotency",
+    "refunds",
+    "disputes",
+    "chargebacks",
+    "credit-ledger",
+    "audit-trail",
+    "reconciliation",
+    "previous-attributes",
+    "starting-after",
+    "pagination",
+    "plan-resolution",
+    "price-ids",
+    "satisfies-record",
+    "exhaustiveness",
+    "text-pattern-ops",
+    "postgres-indexes",
+    "allowlist-default-deny",
+    "money-safety"
+  ]
+}
